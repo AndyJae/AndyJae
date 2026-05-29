@@ -16,6 +16,7 @@ Auto-discovers cameras on the network, resets all colour parameters to factory
 defaults, and provides live NDI monitoring with waveform and vectorscope analysis.  
 No cloud. No subscription. Runs locally.  
 → [smart-reset-browser](https://github.com/AndyJae/smart-reset-browser)
+→ [smart-reset.com](https://smart-reset.com)
 
 ### [smart-matching](https://medien-support.com/#smart-matching)
 Automated colour matching SaaS for PTZ cameras in live broadcast environments.  
@@ -23,11 +24,11 @@ Measures a live camera feed against a DSC Labs reference chart, computes per-pat
 RGB delta, and drives camera parameters directly via manufacturer API — iteratively, 
 until every patch converges within tolerance. No LUTs. No post-processing.  
 Currently in active development.  
-→ [smart-matching](https://github.com/AndyJae/smart-matching)
 
 ### [claude-code-usage](https://github.com/AndyJae/claude-code-usage)
 VSCode extension that shows Claude Code API usage limits (5h/7d) in the status bar.  
 Colour-coded indicator. Available on the VSCode Marketplace.
+→ [VSC plugin](https://marketplace.visualstudio.com/items?itemName=AndJae.claudecode-usage)
 
 ## medien-support
 
