@@ -16,7 +16,6 @@ Auto-discovers cameras on the network, resets all colour parameters to factory
 defaults, and provides live NDI monitoring with waveform and vectorscope analysis.  
 No cloud. No subscription. Runs locally.  
 → [smart-reset-browser](https://github.com/AndyJae/smart-reset-browser)
-→ [smart-reset.com](https://smart-reset.com)
 
 ### [smart-matching](https://www.smart-colormatch.com)
 Automated colour matching SaaS for PTZ cameras in live broadcast environments.  
