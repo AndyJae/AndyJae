@@ -18,7 +18,7 @@ No cloud. No subscription. Runs locally.
 → [smart-reset-browser](https://github.com/AndyJae/smart-reset-browser)
 → [smart-reset.com](https://smart-reset.com)
 
-### [smart-matching](https://medien-support.com/#smart-matching)
+### [smart-matching](https://www.smart-colormatch.com)
 Automated colour matching SaaS for PTZ cameras in live broadcast environments.  
 Measures a live camera feed against a DSC Labs reference chart, computes per-patch 
 RGB delta, and drives camera parameters directly via manufacturer API — iteratively, 
