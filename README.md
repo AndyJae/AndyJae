@@ -24,6 +24,22 @@ RGB delta, and drives camera parameters directly via manufacturer API — iterat
 until every patch converges within tolerance. No LUTs. No post-processing.  
 Currently in active development.  
 
+### [X-Touch PTZ Control](https://github.com/AndyJae/X-Touch_PTZ_Control)
+MIDI shading controller for Panasonic PTZ cameras (17 AW-series models), 
+built around the Behringer X-Touch Extender and a local web UI.  
+Motorized faders drive iris live; per-channel encoders control gain, pedestal 
+and ND filter. Bidirectional sync — changes from the camera's own web interface 
+update faders, scribble strips and UI in real time. Bitfocus Companion integration.  
+Works standalone via web UI, the hardware controller is optional.  
+
+### [Panasonic PTZ Emulator](https://github.com/AndyJae/Panasonic_PTZ_Emulator)
+Standalone Panasonic AW/AK-series camera emulator — simulates the CGI protocol 
+of 17 camera models including both command dialects, per-model gain/pedestal 
+behaviour, error responses, and the update-notification push channel.  
+Built for developing and testing smart-reset and X-Touch PTZ Control without 
+physical hardware. Includes a control UI for model selection, live state 
+monitoring and error injection.
+
 ### [claude-code-usage](https://github.com/AndyJae/claude-code-usage)
 VSCode extension that shows Claude Code API usage limits (5h/7d) in the status bar.  
 Colour-coded indicator. Available on the VSCode Marketplace.
